@@ -7,7 +7,7 @@
       "url": "userstyle.css",
       "matches": ["https://scratch.mit.edu/messages/ajax/friends-activity/*"]
     },
-    ]
+    ],
   "tags": ["community","beta"],
   "enabled_by_default": true
 }
