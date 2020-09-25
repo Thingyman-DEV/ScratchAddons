@@ -1,0 +1,7 @@
+{
+  "name": "More What's Happening",
+  "description": "Allows for an expansion of the what's happening page",
+  "persistent_scripts": [],
+  "tags": ["community"],["beta"]
+  "enabled_by_default": true
+}
