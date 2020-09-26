@@ -2,6 +2,12 @@
   "name": "More What's Happening",
   "description": "Allows for an expansion of the what's happening page",
   "persistent_scripts": [],
+  "userscripts": [
+    {
+      "url": "userscript.js",
+      "matches": ["https://scratch.mit.edu/"]
+    }
+    ],
   "userstyles": [
   {
       "url": "userstyle.css",
