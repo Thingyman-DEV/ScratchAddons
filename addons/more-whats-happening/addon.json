@@ -6,6 +6,10 @@
     {
       "url": "userscript.js",
       "matches": ["https://scratch.mit.edu/"]
+    },
+    {
+      "url": "userscript_two.js",
+      "matches": ["https://scratch.mit.edu/messages/ajax/friends-activity/"]
     }
     ],
   "userstyles": [
